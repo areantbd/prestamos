@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "prestamos",
+    "slug": "prestamos",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
